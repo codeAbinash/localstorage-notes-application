@@ -1,0 +1,19 @@
+
+.center{
+    text-align: center;
+}
+.press,.presss{
+    transition: 0.2s linear transform;
+}
+.press:active{
+    transform: scale(0.95);
+}
+.presss:active{
+    transform: scale(0.9);
+}
+.color{
+    color: var(--main-color);
+}
+a{
+    text-decoration: none;
+}
