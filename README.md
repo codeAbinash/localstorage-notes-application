@@ -1,2 +1,2 @@
 # Notes Application
-## Open [Notes]()"# localstorage-notes-application" 
+## Open [Notes](https://darkroseabinash.github.io/localstorage-notes-application/)
